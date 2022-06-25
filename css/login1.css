@@ -1,0 +1,49 @@
+.login-container{
+    background: radial-gradient( circle farthest-corner at 10% 20%,  rgba(90,92,106,1) 0%, rgba(32,45,58,1) 81.3% );
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.login-box{
+    background-color: rgba(255, 255, 255, .1);
+    padding: 20px;
+    
+}
+
+.login-box .input-group{
+    padding: 10px 10px;
+    
+}
+
+.login-box .input-group label{
+    display: block;
+    color: white;
+    
+}
+
+.login-box .input-group input{
+    background: none;
+    border: none;
+    border: 2px solid rgba(255, 255, 255, .9);
+    width: 100%;
+    border-radius: 15px;
+    margin-top: 15px;
+}
+
+.login-box .do-you-have{
+    font-size: .8em;
+}
+
+.login-box .do-you-have a{
+    
+}
+
+.login-box .submit-btn{
+
+}
+
+.login-box .social-auth{
+
+}
